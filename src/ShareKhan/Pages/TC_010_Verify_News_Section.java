@@ -18,6 +18,8 @@ public class TC_010_Verify_News_Section extends TestCore{
 	{
 		try{
 		driver.manage().timeouts().implicitlyWait(20L,TimeUnit.SECONDS);
+		System.out.println("Latest news");
+		
 		
 		
 		
